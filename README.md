@@ -9,7 +9,9 @@
        * GitHub username 4:
        * GitHub username 5:
    * When did you complete this exercise? 
+    We completed this on March 4th at 2 PM.
    * How long did it take your team to complete this exercise? 
+    It took us a little over an hour to complete this exercise
 
 ## Table of Contents
 
