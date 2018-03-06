@@ -5,7 +5,7 @@
    * What are the GitHub usernames of your team members?
        * GitHub username 1:bjonen1
        * GitHub username 2:Damiason
-       * GitHub username 3:
+       * GitHub username 3:nataliebrooks
        * GitHub username 4:
        * GitHub username 5:
    * When did you complete this exercise? 
