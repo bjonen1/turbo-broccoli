@@ -1,6 +1,6 @@
 # X-Team 00 Style Guide
 
-<brief description of your team's opinion or philosophy regarding Style Guides>
+We believe style guides are helpful in maintaining consistent code and content for efficient understanding, reuse, and debugging. Excessive style guide requirements, however, can cause the additional overhead to outweigh the benefits.
 
 ## Naming conventions
 
